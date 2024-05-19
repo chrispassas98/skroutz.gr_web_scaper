@@ -50,4 +50,14 @@
 
 # Columns Description
 
+The dataset contains information about mobile phone listings from Skroutz. The columns are as follows:
 
+- Title: The name and description of the phone.
+- Price: The price of the phone.
+- Model: The model year of the phone.
+- Screen: The type and size of the phone's screen.
+- Battery: The battery capacity in mAh.
+- Rating: The number of ratings the phone received.
+- Reviews: The total number of reviews.
+- Stars_Reviews: The star rating and count of reviewers.
+- Shop_Stock: The number of shops where the phone is available.
