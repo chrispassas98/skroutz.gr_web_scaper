@@ -1,1 +1,1 @@
-# skroutz_web_scaper
+# Skroutz.gr Web scrape
