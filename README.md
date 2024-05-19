@@ -1,5 +1,5 @@
 # Skroutz.gr Web scrape
-
+![](skroutz_web_scaper/Project_webscrape_dataset/web_scrape.jpg)
 # Description:
 
  This Python script is designed to scrape mobile phone listings from the Skroutz website. Here's a detailed description of what the code does:
