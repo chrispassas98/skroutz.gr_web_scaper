@@ -45,3 +45,8 @@
 
 - The collected data is converted into a pandas DataFrame for further analysis or export.
 - This script efficiently collects and organizes detailed information about mobile phones from the specified website, handling errors gracefully and ensuring compliance with the website's usage policies by incorporating delays and random user agents.
+
+
+# Columns Description
+
+
