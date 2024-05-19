@@ -4,7 +4,8 @@
 # Description:
 
  This Python script is designed to scrape mobile phone listings from the Skroutz website. Here's a detailed description of what the code does:
- - **You can find the results of the web scraping script in the file project_web_scrape_dataset** 
+ - **You can find the results of the web scraping script in the file project_web_scrape_dataset**
+ - **You can find here the analysis of the dataset**
 
 ## Imports and Setup:
 
