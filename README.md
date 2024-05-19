@@ -5,8 +5,7 @@
 
  This Python script is designed to scrape mobile phone listings from the Skroutz website. Here's a detailed description of what the code does:
  - **You can find the results of the web scraping script in the file project_web_scrape_dataset**
- - **You can find here the analysis of the dataset**
-
+ - **You can find the analysis of the dataset here**: [Click Here](https://github.com/chrispassas98/skourtz.gr_analysis)
 ## Imports and Setup:
 
 - The script imports necessary libraries: time for handling delays, BeautifulSoup for parsing HTML, UserAgent for generating random user agents, pandas for data manipulation, and urllib.request and urllib.error for handling web requests and errors.
