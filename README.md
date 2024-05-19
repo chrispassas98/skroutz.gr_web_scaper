@@ -62,3 +62,6 @@ The dataset contains information about mobile phone listings from Skroutz. The c
 - Reviews: The total number of reviews.
 - Stars_Reviews: The star rating and count of reviewers.
 - Shop_Stock: The number of shops where the phone is available.
+
+<img src="Project_webscrape_dataset/scrap_results.jpg" alt="Web Scrape Image" width="600">
+-
